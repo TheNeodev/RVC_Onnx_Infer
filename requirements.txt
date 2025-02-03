@@ -1,0 +1,20 @@
+pip>=23.3,<24.1
+onnxruntime; sys_platform == 'darwin'
+onnxruntime-gpu; sys_platform != 'darwin'
+torch==2.3.1
+torchaudio==2.3.1
+librosa
+scipy
+numpy==1.25.2
+einops>=0.8.0
+librosa>=0.10.2
+pydub>=0.25.1
+tqdm
+onnx>=1.14
+faiss-cpu>=1.7.3
+requests>=2.32.3
+praat-parselmouth
+soundfile
+fairseq==0.12.2
+ffmpy==0.3.1
+ffmpeg-python>=0.2.0
