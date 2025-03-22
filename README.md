@@ -1,7 +1,7 @@
-# Suy luận RVC bằng mô hình onnx được sửa đổi bởi Anh
+# RVC inference using onnx model modified by Anh 
 
-# Hiện tại dự án này chưa được kiểm tra 100% nên có thể xảy ra lỗi
+# This project is not 100% tested yet so there may be errors 
 
-# Dự án này đã hỗ trợ tính năng suy luận với chỉ mục faiss mà dự án gốc chưa có như
+# This project has supported inference feature with faiss index which the original project does not have as 
 
-# Dự án này được dựng dựa trên convert của [Vietnamese RVC](https://github.com/PhamHuynhAnh16/Vietnamese-RVC) và chuyển đổi mô hình onnx của [Retrieval-based-Voice-Conversion-WebUI](https://github.com/fumiama/Retrieval-based-Voice-Conversion-WebUI)
+# This project is built based on convert of [Vietnamese RVC](https://github.com/PhamHuynhAnh16/Vietnamese-RVC) and convert onnx model of [Retrieval-based-Voice-Conversion-WebUI](https://github.com/fumiama/Retrieval-based-Voice-Conversion-WebUI)
